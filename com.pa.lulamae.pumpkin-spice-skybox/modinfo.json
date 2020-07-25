@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.pumpkin-spice-skybox",
+  "display_name": "Pumkin Spice Skybox",
+  "description": "System placed in an autumn universe",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/client-pumpkin-spice-skybox.73171/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/pumkin-spice-icon.png",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.pumpkin-spice-skybox/settings.js"
+      ]
+  }
+}
